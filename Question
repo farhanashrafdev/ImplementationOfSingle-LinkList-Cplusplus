@@ -1,0 +1,10 @@
+Write C++ program to give implementation of singly linked list and should have the following
+functionality.
+-InsertFirst ( ? )
+-InsertLast ( ? )
+-InsertSpecific ( ? )
+-DisplayList ( ? )
+-DisplaySize ( ? )
+-DeleteFirst ( ? )
+-DeleteLast ( ? )
+-DeleteSpecific( ? )
